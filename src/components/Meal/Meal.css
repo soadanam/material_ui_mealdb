@@ -1,0 +1,16 @@
+.meal-div{
+    background-color: rgba(219, 219, 219, 0.263);
+    border: 2px solid rgb(97, 97, 97);
+    border-radius: 20px;
+    margin: 10px;
+
+    /* margin: auto; */
+    display: flex;
+    justify-content: center;
+
+}
+.meal-image{
+    width: 250px;
+    margin: 10px;
+    border-radius: 10px;
+}

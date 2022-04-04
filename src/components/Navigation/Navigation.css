@@ -1,0 +1,10 @@
+nav{
+    background-color: antiquewhite;
+    height: 50px;
+}
+nav .nav-item{
+    font-size: 25px;
+    line-height: 42px;
+    font-weight: bold;
+    margin-right: 10px;
+}

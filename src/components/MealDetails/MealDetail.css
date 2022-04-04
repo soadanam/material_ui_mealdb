@@ -1,0 +1,24 @@
+.details-div{
+    background-color: lightcyan;
+    padding: 30px;
+    border: 1px solid cadetblue;
+    border-radius: 20px;
+    width: 50%;
+    margin: auto;
+    margin-bottom: 5px;
+}
+.detail-image{
+    width: 300px;
+    border-radius: 30px;
+}
+
+@media (max-width: 776px){
+    .details-div{
+        background-color: rgb(255, 254, 224);
+        padding: 30px;
+        border: 1px solid cadetblue;
+        border-radius: 20px;
+        width: 100%;
+        margin: auto;
+    }
+}
