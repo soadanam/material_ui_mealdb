@@ -5,6 +5,11 @@ nav{
 nav .nav-item{
     font-size: 25px;
     line-height: 42px;
-    font-weight: bold;
+    /* font-weight: bold; */
+    /* text-decoration: none; */
     margin-right: 10px;
+}
+
+.nav-item{
+    text-decoration: none;
 }
